@@ -15,7 +15,8 @@
 
 #### :muscle: Cosas con las que me estoy desafiando:
 - Codificando al menos de 2 a 3 horas al día
-- Hacer ejercicio 5 veces por semana
+- Hacer ejercicio 5 veces por semana en el gimnasio
+- Entrenar vóleibol dos veces por semana y jugar los fines de semana en 3 división
 - Mejorar mi curriculum tomando cursos.
 
 #### :computer: Programming languages and tools: 

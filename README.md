@@ -6,27 +6,25 @@
 
 ¡Bienvenido a mi página de Github! ¡Soy Luis Manuel y actualmente me desempeño como docente de Programación! 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://avatars.githubusercontent.com/u/57044028?v=4" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+#### 🌱 Cosas en las que estoy trabajando actualmente: 
+- Aprendiendo de forma autodidacta el lenguaje de programación en C# para el desarrollo de video juegos utilizando el motor de Unity
+- Tomando cursos sobre el desarrollo de aplicaciones híbridas
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+#### :muscle: Cosas con las que me estoy desafiando:
+- Codificando al menos de 2 a 3 horas al día
+- Hacer ejercicio 5 veces por semana
+- Mejorar mi curriculum tomando cursos.
 
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>

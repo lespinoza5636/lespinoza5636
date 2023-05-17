@@ -2,7 +2,7 @@
 ### Soy Luis Espinoza!
 
 <h1 align="center">Hi 👋, I'm Luis Manuel Espinoza Estrada</h1>
-<h3>¡Bienvenido a mi página de Github!</h3>
+<h2>¡Bienvenido a mi página de Github!</h2>
 <h3>¡Soy Luis Manuel y actualmente me desempeño como docente de Programación!</h3>
 
 - 🔭 Cosas en las que estoy trabajando actualmente [Sistema de Pagos](https://github.com/lespinoza5636/pagos)

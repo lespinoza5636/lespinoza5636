@@ -1,6 +1,3 @@
-### Hola 👋 
-### Soy Luis Espinoza!
-
 <h1 align="center">Hi 👋, I'm Luis Manuel Espinoza Estrada</h1>
 <h4>¡Bienvenido a mi página de Github!</h4>
 <h3>¡Soy Luis Manuel y actualmente me desempeño como docente de Programación!</h3>

@@ -2,11 +2,11 @@
 <h4>¡Bienvenido a mi página de Github!</h4>
 <h3>¡Soy Luis Manuel y actualmente me desempeño como docente de Programación!</h3>
 
-- 🔭 Cosas en las que estoy trabajando actualmente [Sistema de Pagos](https://github.com/lespinoza5636/pagos)
+- 🔭 Cosas en las que estoy trabajando actualmente [Sistemas varios]
 
-- 🌱 Actualmente estoy aprendiendo **Laravel, React, C#, Blender y Unity**
+- 🌱 Actualmente estoy aprendiendo **Docker y NestJS**
 
-- 💬 Preguntame sobre **PHP, C#, HTML y MySql**
+- 💬 Preguntame sobre **JavaScript, C#, HTML, Angular, NestJS, Docker y MySql**
 
 - 📫 Como llegar a mi **luis.manuel.espinoza.estrada@gmail.com**
 
